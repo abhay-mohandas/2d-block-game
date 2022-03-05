@@ -54,9 +54,9 @@ def drawText(text, font, surface, x, y):
 fontlarge = pygame.font.SysFont(None, 80)
 font = pygame.font.SysFont(None, 60)
 fontsmall = pygame.font.SysFont(None, 40)
-player_image = pygame.image.load('player.png')
+player_image = pygame.image.load('2d-block-game/player.png')
 player_rect = player_image.get_rect()
-obstacle_image = pygame.image.load('obstacle.png')
+obstacle_image = pygame.image.load('2d-block-game/obstacle.png')
 for n in range(100):
     locations = (random.randint(0,width),random.randint(0,height))
     for x in range(1):
