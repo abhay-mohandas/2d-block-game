@@ -8,4 +8,4 @@ Instructions:
             
             2) python 2d-block-game/main.py
            
-Note: Edit the addresses of player.png and obstacle.png in main.py to the desired location
+Note: Edit the address of player.png and obstacle.png in main.py to the desired location
