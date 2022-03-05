@@ -10,4 +10,4 @@ Instructions:
             
             3) python main.py
            
-Note: Either edit the addresses of player.png and obstacle.png in main.py
+Note: Edit the addresses of player.png and obstacle.png in main.py
